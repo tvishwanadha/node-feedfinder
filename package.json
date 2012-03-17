@@ -1,0 +1,29 @@
+{
+  "name": "feedfinder",
+  "version": "0.0.1",
+  "scripts": {
+    "test" : "./node_modules/.bin/mocha"
+  },
+  "main": "./lib/feedfinder",
+  "repository": {
+    "type" : "git",
+    "url"  : "https://github.com/tvishwanadha/node-feedfinder.git"
+  },
+  "keywords": [
+    "rss",
+    "atom",
+    "feed",
+    "finder"
+  ],
+  "dependencies": {
+    "request" : "2.9.x",
+    "cheerio" : "0.6.x"
+  },
+  "devDependencies": {
+    "should"  : "*",
+    "mocha"   : "*"
+  },
+  "engine": {
+    "node" : ">= 0.4.7"
+  }
+}
