@@ -7,7 +7,7 @@ A simple feed finder for node.js, inspired by the [python script originally writ
 
 # Usage
 
-Much like the python inspirateion, offers two functions, `feed` and `feeds`.
+Much like the python inspiration, offers two functions, `feed` and `feeds`.
 
     var feedfinder = require('./lib/feedfinder');
     var log = function (err,res) { if (err) console.error(err); else console.log(res); };
