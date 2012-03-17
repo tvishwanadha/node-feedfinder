@@ -1,0 +1,1 @@
+simple feed finder for node.js, based on the python script originally written by Mark Pilgrim and currently maintained by Aaron Swartz
