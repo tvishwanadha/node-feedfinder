@@ -1,4 +1,4 @@
-var should = require('should'), feedfinder = require ('../lib/feedfinder');
+var feedfinder = require ('../lib/feedfinder');
 
 describe('feedfinder', function(){
 
