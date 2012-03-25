@@ -16,3 +16,8 @@ Much like the python inspiration, offers two functions, `feed` and `feeds`.
     feedfinder.feeds('http://googleblog.blogspot.com/', log);
     // [ 'http://googleblog.blogspot.com/feeds/posts/default',
     //   'http://googleblog.blogspot.com/feeds/posts/default?alt=rss' ]
+
+# Todo List
+
+ * RDF/RSS1.0 support
+ * hAtom support
